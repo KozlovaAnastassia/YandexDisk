@@ -1,0 +1,6 @@
+framework module Pods_yandexDiskSimulator {
+  umbrella header "Pods-yandexDiskSimulator-umbrella.h"
+
+  export *
+  module * { export * }
+}
